@@ -8,3 +8,5 @@ as stated above the main purpose is to provide simple examples for git trainings
 ##deploy
 
 ## How to contribute
+
+Adding more data what ever given this matter is good 
