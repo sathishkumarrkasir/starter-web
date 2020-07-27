@@ -6,7 +6,7 @@ this is exmaple is to show different parts of the git repository and various com
 as stated above the main purpose is to provide simple examples for git trainings demo"
 
 ##deploy
-
+All rights reserved
 ## How to contribute
 
 Adding more data what ever given this matter is good 
