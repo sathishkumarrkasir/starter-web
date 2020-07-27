@@ -9,4 +9,7 @@ as stated above the main purpose is to provide simple examples for git trainings
 All rights reserved
 ## How to contribute
 
+this is used for
+stash
+
 Adding more data what ever given this matter is good 
